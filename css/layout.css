@@ -1,0 +1,86 @@
+body {
+	font-family: 'Varela Round', 'Arial';
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#flex-container{
+}
+
+/* Header styles */
+/*****************/
+
+header {
+	margin: 20px auto;
+	text-align: center;
+}
+
+#header-logo {
+	max-height: 75px;
+	margin-right: 20px;
+	display: inline;
+}
+
+h1 {
+	font-size: 75px;
+	margin: 0;
+	display: inline;
+}
+
+#sub-header {
+	font-size: 24px;
+	color: #999;
+	margin: 0;
+}
+
+/* Social panel */
+/****************/
+
+#social-panel {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+}
+
+article {
+	max-width: 800px;
+}
+
+footer {
+	font-size: 12px;
+	color: #aaa;
+	position: fixed;
+	right: 10px;
+	bottom: 5px;
+}
+
+/* These classes will be animated on load */
+.animate-on-load {
+	position: relative;
+	opacity: 0;
+}
+
+.contact-item {
+	font-size: 24px;
+}
+
+.main-flex-item {
+	align-self: stretch;
+	padding: 15px;
+}
+
+.flex-column-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.flex-row-container {
+	display: flex;
+	align-items: center;
+}
+
+.text-28px-center {
+	font-size: 28px;
+	text-align: center;
+}

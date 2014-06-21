@@ -1,0 +1,1 @@
+This project reflects what I have learned in web technologies. It is also my online resume

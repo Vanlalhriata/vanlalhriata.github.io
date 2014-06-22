@@ -37,7 +37,7 @@ h1 {
 /****************/
 
 #social-panel {
-	position: fixed;
+	position: absolute;
 	top: 20px;
 	right: 20px;
 }
